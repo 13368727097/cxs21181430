@@ -2,5 +2,5 @@
 
 #### I think h4 is better.
 
-this is [other file ](file.md).
+[other file](file.md)
 

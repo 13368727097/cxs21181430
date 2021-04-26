@@ -2,3 +2,5 @@
 
 #### I think h4 is better.
 
+this is other file[my file.md](my file.md).
+

@@ -2,5 +2,5 @@
 
 #### I think h4 is better.
 
-[other file](file.md)
+[link to cxs.md](file.md)
 

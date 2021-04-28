@@ -11,6 +11,6 @@ this is Internet pictures.
 
 This is a local picture.
 
-![imge](1.png)
+<img src="1.png">
 
 
